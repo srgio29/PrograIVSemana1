@@ -1,0 +1,19 @@
+Lista de comandos para la correcta vinculacion de Git y GitHub
+
+
+//Comandos para Configurar nuestro usuario y correo con Github
+
+
+Abrir el cmd de windows
+
+//Ver lista de configuraciones y credenciales
+git config --list
+
+//Comando para configurar Usuario de GitHub
+git config --global user.name "Your Name"
+
+//Comando para configurar Correo de GitHub
+git config --global user.email "youremail@yourdomain.com"
+
+
+//Comandos para actualizar trabaj
