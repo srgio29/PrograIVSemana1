@@ -16,4 +16,9 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
 
 
-//Comandos para actualizar trabaj
+//Comandos para actualizar trabajos en Git
+git status // Permite verificar el status de la syncronizacion en Git
+git log //Permite ver versiones y cambios guardados
+git add [Nombre del archivo a subir] // Sube un archivo en especifico
+git add . // Sube todo el contenido de la carpeta sincronizada
+git commit -m // Guardar y agregar nombre de la actualizacion realizada
